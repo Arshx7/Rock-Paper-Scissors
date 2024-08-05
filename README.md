@@ -1,1 +1,2 @@
 # Rock-Paper-Scissors
+This Rock Paper Scissors game is a simple yet engaging web-based application developed using JavaScript and HTML. The game allows users to play the classic hand game "Rock, Paper, Scissors" against the computer.
